@@ -6,13 +6,13 @@ CREATE   = '5'
 STOP     = '6'
 
 # IP da máquina do servidor
-HOSTS  = '44.201.88.90'
+HOSTS  = '44.222.107.192'
 
 # Portas
-PORTS  = 50004
-PORTC1 = 50053
-PORTC2 = 50054
+PORTS  = 5678
+PORTC1 = 5678
+PORTC2 = 5678
 
 # IPs dos clientes
-HOSTC1 = '18.210.55.23'
-HOSTC2  = '3.95.120.10'
+HOSTC1 = '98.92.152.200'
+HOSTC2  = '35.172.111.246'
